@@ -10,7 +10,7 @@ import Footer from './Components/Footer';
 
 function App() {
   return (
-    <div className='container-fluid'>
+    <div className='container'>
       <Header/>
      {/* Card*/}
       <CardData/>
