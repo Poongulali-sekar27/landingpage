@@ -3,7 +3,7 @@ import ShowcaseItem from './ShowcaseItem';
 
 const showcaseData = [
     {
-        image: 'https://www.seekpng.com/png/full/249-2493070_responsive-web-design.png',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTA-obWlH-YQUxufT-9c7WqTqjuTtSTI61nQ&s',
         orderClass: 'order-lg-2',
         title: 'Fully Responsive Design',
         description: 'When you use a theme created by Start Bootstrap, you know that the theme will look great on any device, whether it\'s a phone, tablet, or desktop the page will behave responsively!'
